@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Вакансии врачей в Грязинской центральной районной больнице, условия работы и контакты отдела кадров.">
 <title>Работа в Грязинской ЦРБ</title>
-<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=HNFYnFAsbtVBmXoGo-Rtg1QU8XyDVdqztM0H0dka4QDhjq4I8ZndmvbdBl-EnxNXY9Yol0KFAi9gAK3Uzq1Fgtn4wm9TSZEg4GD1rVIygkNOz6XXM4tQRWqCg5C_JbnJWFQVsbyMkQhlyviu0XaI-oLUysooSCuLTJViZdOhG_ESfrTU7v_ujs1_HthdBNHeGsMINMtcbp2czBkAFHsCGhovLRPVNANOtUcaXLpJqwEXP3aXti8xWNy3gG8zNendrbxxEdjO-L1lTny7o98Y5bimU7ldopfwlaAFG7TU5Jse703meOAib5rUkWpFTo-d75murkK2eCfhJXF0OS4Iqg" charset="UTF-8"></script><style>
+<style>
 :root {
   color-scheme: light;
   --ink: #102842;
